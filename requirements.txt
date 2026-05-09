@@ -1,3 +1,6 @@
 streamlit
 Pillow
+opencv-python-headless
 fpdf
+numpy
+rembg
